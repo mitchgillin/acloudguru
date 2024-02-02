@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.504.0",
+    "csv": "^6.3.6",
+    "dotenv": "^16.4.1"
+  }
+}
